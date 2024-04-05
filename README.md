@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chinmay Inamdar 👋</h1>
 <h3 align="center">Passionate App Developer from India</h3>
 
-- 🔭 I’m currently working on **Crowdfunding Web3 App**
+- 🔭 I’m currently working on **Web3**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
