@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Chinmay Inamdar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;DevOps+%26+Cloud+Engineer;Distributed+Systems+Developer;ML+Infrastructure+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&width=700&lines=Software+Development+Engineer" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
